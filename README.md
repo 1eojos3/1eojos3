@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" src="https://camo.githubusercontent.com/94b2f17c7e4f78e8024cb17d42b664c0d788dd7e467d9021b56dc47122314616/687474703a2f2f657374727579662d6769746875622e617a75726577656273697465732e6e65742f6170692f56697369746f724869743f757365723d77656265727374696c6c73267265706f3d426773746174696326636f756e74436f6c6f72636f756e74436f6c6f7226636f756e74436f6c6f723d253233374231453742" data-canonical-src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=weberstills&amp;repo=Bgstatic&amp;countColorcountColor&amp;countColor=%237B1E7B" style="max-width: 100%;">
+
 <p align="left">
 <a href="https://dev.to/1eojose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="1eojos3" height="30" width="40" /></a>
 <a href="https://twitter.com/LeoJose93464569" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="1eojos3" height="30" width="40" /></a>
@@ -42,10 +42,10 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
   <h2 align="center"> Github Statistics 📈 </h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eojos3&layout=compact&langs_count=10&&hide=python&exclude_repo = automate-the-boring-stuff-with-python,graphQL-API, poll_app, djangogirls, crack-a-laugh&theme=chartreuse-dark" />
+
 
 
 <p>&nbsp;<img align="center" height="220" width = "400" src="https://github-readme-stats.vercel.app/api?username=1eojos3&show_icons=true&theme=dracula&title_color=45ff38&text_color=ffffff&locale=en" alt="1eojos3" /></p>
 
-<p><img align="center" height="200" width = "800" src="https://github-readme-streak-stats.herokuapp.com/?user=1eojos3&" alt="1eojos3" /></p>
+
 
