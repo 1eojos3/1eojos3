@@ -42,17 +42,10 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1eojos3&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eojos3&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eojos3&layout=compact&langs_count=10&&hide=python&exclude_repo = automate-the-boring-stuff-with-python,graphQL-API, poll_app, djangogirls, crack-a-laugh&theme=chartreuse-dark" />
 
-<br/>
-<br />
 
+<p>&nbsp;<img align="center" height="220" width = "400" src="https://github-readme-stats.vercel.app/api?username=1eojos3&show_icons=true&theme=dracula&title_color=45ff38&text_color=ffffff&locale=en" alt="1eojos3" /></p>
+
+<p><img align="center" height="200" width = "800" src="https://github-readme-streak-stats.herokuapp.com/?user=1eojos3&" alt="1eojos3" /></p>
 
